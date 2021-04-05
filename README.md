@@ -1,6 +1,6 @@
 ![Chocolatier](https://raw.githubusercontent.com/jeremyperkin/Chocolatier/main/images/chocol.jpg "Chocolatier")
 #### App Install Tool
-[![VISIT GENERATOR](https://img.shields.io/badge/Visit_Generator-blue.svg?style=for-the-badge)](https://rawcdn.githack.com/jeremyperkin/Chocolatier/e5dfff6936f1189e3c7b9017f074263f37c4198c/generator.html)
+[![VISIT GENERATOR](https://img.shields.io/badge/Visit_Generator-blue.svg?style=for-the-badge)](https://rawcdn.githack.com/jeremyperkin/Chocolatier/bab79ce8776b53375a482282ed17e6b415cdf6b5/generator.html)
 
 [![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?style=for-the-badge&colorB=177DC1&label=license)](LICENSE)
 
@@ -12,7 +12,7 @@ This is a Open Source project and we are not responsible in case of application 
 
 ------------
 ### Let's start!
-[![CLICK TO VISIT GENERATOR](https://img.shields.io/badge/Click_To_Visit_Generator-blue.svg?style=for-the-badge)](https://rawcdn.githack.com/jeremyperkin/Chocolatier/e5dfff6936f1189e3c7b9017f074263f37c4198c/generator.html)
+[![CLICK TO VISIT GENERATOR](https://img.shields.io/badge/Click_To_Visit_Generator-blue.svg?style=for-the-badge)](https://rawcdn.githack.com/jeremyperkin/Chocolatier/bab79ce8776b53375a482282ed17e6b415cdf6b5/generator.html)
 
 or c/p the url in case you can't click on the button above:
 
