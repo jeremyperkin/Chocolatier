@@ -1,4 +1,4 @@
-![Chocolatier](https://raw.githubusercontent.com/jeremyperkin/Chocolatier/main/images/simple-logo.jpg "Chocolatier")
+
 #### App Install Tool
 [![VISIT GENERATOR](https://img.shields.io/badge/Visit_Generator-blue.svg?style=for-the-badge)](https://raw.githack.com/jeremyperkin/Chocolatier/main/generator.html)
 
