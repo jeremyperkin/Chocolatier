@@ -12,7 +12,7 @@ This is a Open Source project and we are not responsible in case of application 
 
 ------------
 ### Let's start!
-[![CLICK TO VISIT GENERATOR](https://img.shields.io/badge/Click_To_Visit_Generator-blue.svg?style=for-the-badge)](https://raw.githack.com/jeremyperkin/Chocolatier/main/generator.html)
+[![CLICK TO VISIT GENERATOR](https://img.shields.io/badge/Click_To_Visit_Generator-blue.svg?style=for-the-badge)](https://rawcdn.githack.com/jeremyperkin/Chocolatier/e5dfff6936f1189e3c7b9017f074263f37c4198c/generator.html)
 
 or c/p the url in case you can't click on the button above:
 
