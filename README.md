@@ -1,6 +1,6 @@
 
 #### App Install Tool
-[![VISIT GENERATOR](https://img.shields.io/badge/Visit_Generator-blue.svg?style=for-the-badge)](https://raw.githack.com/jeremyperkin/Chocolatier/main/generator.html)
+[![VISIT GENERATOR](https://img.shields.io/badge/Visit_Generator-blue.svg?style=for-the-badge)](https://rawcdn.githack.com/jeremyperkin/Chocolatier/e5dfff6936f1189e3c7b9017f074263f37c4198c/generator.html)
 
 [![License: GPL 3](https://img.shields.io/badge/License-GPL%203-blue.svg?style=for-the-badge&colorB=177DC1&label=license)](LICENSE)
 
